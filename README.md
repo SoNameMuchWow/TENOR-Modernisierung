@@ -6,4 +6,4 @@ http://www.or.wi.tu-darmstadt.de/bwl3_lehre/bwl3_software/bwl3_lernsoftware/bwl3
 
 Im ersten Teil des Projekts soll speziell versucht werden, die Funktionsweise des Programmes GRAPPA zu erfassen und auch für neuere Windows-Versionen verfügbar zu machen.
 
-Git-Beginner-Guide: https://guides.github.com/activities/hello-world/
+Git-Beginner-Guide: http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
